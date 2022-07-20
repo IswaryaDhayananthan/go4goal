@@ -1,0 +1,30 @@
+body {
+    background-image: url(https://img.freepik.com/premium-photo/grunge-wood-panels-texture_174699-4.jpg?w=2000);
+    color: whitesmoke;
+}
+
+h1 {
+    text-align: center;
+}
+
+.banner {
+    display: flex;
+}
+
+.banner img{
+
+}
+
+.para {
+    display: flex;
+    justify-content: center;
+}
+
+.para p {
+    
+}
+
+.cards {
+    background-image: url(https://img.freepik.com/premium-photo/old-paper-texture-background_118047-1365.jpg?w=2000);
+}
+
